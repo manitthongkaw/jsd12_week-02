@@ -1,0 +1,3 @@
+SELECT * FROM MenuItems
+ORDER BY price
+ASC LIMIT 3
